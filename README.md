@@ -35,28 +35,25 @@ In the server script add your own local IP address in line #20
 
 In the client script add your own local IP address in line #6
 
+Run the "server" program first, then the "client" program on your virtual machine.
 
-#### Installation
-```
-$ pip install auto-py-to-exe
-```
-Run the auto-py-to-exe
-```
-$ auto-py-to-exe
-```
+Once the connection is established you can type **list** command to view the list of hosts connected to your server or type **select** followed by the host index number from the list.
+
+After you select a host, you type and send any command that hosts machine.
 
 ---
 ## Documentation of the Project
 
-This is the code documentation submitted to Asia Pacific University [Cobra ransomware](https://docs.google.com/document/d/1kdNo7UfKlLYGUKwGu8iVNX-cXhedzCri/edit?usp=sharing&ouid=113822100392880670391&rtpof=true&sd=true)
+This is the code documentation submitted to Asia Pacific University [Educational_Botnet]( LINKK TO DOCUMENTATION FILE)
 
 ---
 ## License
 
-This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. The Developer assume no liability and is not responsible for any misuse or damage caused by this tool and software in general
+This tool is designed for testing and academic purposes and should be used with explicit and legal consent. It is strictly prohibited to use it for illegal activities. The user is solely responsible for following all local, state and federal regulations. The developer takes no responsibility and Will not be held accountable, for any improper or harmful use of this tool or the related software.
+
 
 ---
 
 ## Author Info
 
-- LinkedIn - [Khaled Hussein Mostafa](https://www.linkedin.com/in/khaled-hussein74/)
+- LinkedIn - [Mohamed Adel Ibrahim](www.linkedin.com/in/mohamed-adel-ba30a7240)
