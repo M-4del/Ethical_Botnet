@@ -15,7 +15,7 @@
 
 ## Description
 
- EMPTY. <br />
+This educational botnet is designed specifically for researchers and educational institutions. Its main purpose is to provide students with an understanding of botnets including their source code and operational complexities. The ultimate goal is to encourage research that can lead to innovative approaches, in better understanding and effectively dealing with botnets. <br />
 ##### Every block is explained in the code itself
 
 #### Technologies
