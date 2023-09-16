@@ -1,4 +1,4 @@
-Khaled Hussein Mostafa# Ethical_Botnet
+# Ethical_Botnet
 
 > This a Final year Project proposed by Mohamed Adel Ibrahim
 
@@ -15,7 +15,7 @@ Khaled Hussein Mostafa# Ethical_Botnet
 
 ## Description
 
- . <br />
+ EMPTY. <br />
 ##### Every block is explained in the code itself
 
 #### Technologies
@@ -26,14 +26,14 @@ Khaled Hussein Mostafa# Ethical_Botnet
 
 ## What is a Botnet
 
-EMPTY
+A botnet is a network of Internet-connected user computers (bots) that have been infected with malicious software (malware), allowing the computers to be remotely controlled by an operator known as “bot herder” or “bot master” via a Command-and-Control (C&C) server to perform automated tasks such as stealing information or launching attacks on other computers (Kaspersky, 2023). The malware used to infect these computers is usually delivered through spam emails, malicious links, or by exploiting software vulnerabilities. Botnet malware has been used to give controllers access over a large number of machines at the same time. This allows botnet operators to leverage compute and bandwidth resources from several networks for harmful purposes.
 
 ---
 
 ## How To Use
-In the encrypt script add your own local ip address in line #
+In the server script add your own local IP address in line #20
 
-In server script add your own local ip address in line #4
+In the client script add your own local IP address in line #6
 
 
 #### Installation
@@ -44,11 +44,6 @@ Run the auto-py-to-exe
 ```
 $ auto-py-to-exe
 ```
-Convert the py encrypt to one file exe <br />
-
-Repeat with py decrypt <br />
-
-Convert the py code to exe (the server should be running on compiler every time the user want to execute the ransomware.
 
 ---
 ## Documentation of the Project
