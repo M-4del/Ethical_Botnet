@@ -16,6 +16,7 @@
 ## Description
 
 This educational botnet is designed specifically for researchers and educational institutions. Its main purpose is to provide students with an understanding of botnets including their source code and operational complexities. The ultimate goal is to encourage research that can lead to innovative approaches, in better understanding and effectively dealing with botnets. <br />
+
 ##### Every block is explained in the code itself
 
 #### Technologies
@@ -41,6 +42,8 @@ Run the "server" program first, then the "client" program on your virtual machin
 Once the connection is established you can type **list** command to view the list of hosts connected to your server or type **select** followed by the host index number from the list.
 
 After you select a host, you type and send any command that hosts machine.
+
+** Note ** The type of command and its syntax is based host's machine OS whether it Windows, kali Linux or etc..
 
 ---
 ## Documentation of the Project
