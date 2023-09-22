@@ -48,7 +48,7 @@ After you select a host, you type and send any command that hosts machine.
 ---
 ## Documentation of the Project
 
-This is the code documentation submitted to Asia Pacific University [Educational_Botnet]( LINKK TO DOCUMENTATION FILE)
+This is the code documentation submitted to Asia Pacific University ( [LINKK TO DOCUMENTATION FILE](https://docs.google.com/document/d/1GKswnhWmfOTsgotIx4L01Tt9l8KtoYs66htm-tbXsIo/edit?usp=sharing))
 
 ---
 ## License
