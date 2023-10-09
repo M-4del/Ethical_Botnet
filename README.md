@@ -37,7 +37,7 @@ Detecting and mitigating botnets is a significant challenge for cybersecurity pr
 
 In the server script add your own local IP address in line #5, and whatever port number you want to use.
 
-In the client script add your own local IP address in line #77, and make sure to have the same port number you typed in the server script.
+In the client script add your own local IP address in line #94, and make sure to have the same port number you typed in the server script.
 
 ### Installation
 To make the client file run on click, you must use this converter to change the file from .py to .exe, use the following command to download the converter.
