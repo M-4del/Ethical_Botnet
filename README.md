@@ -27,28 +27,44 @@ This educational botnet is designed specifically for researchers and educational
 
 ## What is a Botnet
 
-A botnet is a network of Internet-connected user computers (bots) that have been infected with malicious software (malware), allowing the computers to be remotely controlled by an operator known as “bot herder” or “bot master” via a Command-and-Control (C&C) server to perform automated tasks such as stealing information or launching attacks on other computers (Kaspersky, 2023). The malware used to infect these computers is usually delivered through spam emails, malicious links, or by exploiting software vulnerabilities. Botnet malware has been used to give controllers access over a large number of machines at the same time. This allows botnet operators to leverage compute and bandwidth resources from several networks for harmful purposes.
+A botnet, short for "robot network," is a network of compromised computers or devices that are under the control of a single entity, typically a cybercriminal or a hacker. These compromised devices, often referred to as "bots" or "zombies," are usually infected with malicious software, also known as malware. Once infected, these devices become part of the botnet, and their owners are often unaware that their devices are being used for malicious purposes. <br />
+Botnet operators maintain control over the compromised devices by using command and control (C&C) servers. These servers send instructions to the bots, allowing the operator to orchestrate coordinated attacks or other malicious activities. <br />
+Detecting and mitigating botnets is a significant challenge for cybersecurity professionals, as they can be highly sophisticated and constantly evolving. Various security measures, such as firewalls, intrusion detection systems, and antivirus software, are used to detect and combat botnets. Additionally, legal and law enforcement efforts are aimed at apprehending and prosecuting those responsible for creating and controlling botnets, as these activities are illegal in most jurisdictions.
 
 ---
 
 ## How To Use
 
-In the server script add your own local IP address in line #20
+In the server script add your own local IP address in line #5, and whatever port number you want to use.
 
-In the client script add your own local IP address in line #6
+In the client script add your own local IP address in line #77, and make sure to have the same port number you typed in the server script.
+
+### Installation
+To make the client file run on click, you must use this converter to change the file from .py to .exe, use the following command to download the converter.
+```
+$ pip install auto-py-to-exe
+```
+Run the auto-py -to-exe
+```
+$ auto-py-to-exe
+``` 
+Convert the py client to exe <br />
 
 Run the "server" program first, then the "client" program on your virtual machine.
 
-Once the connection is established you can type **list** command to view the list of hosts connected to your server or type **select** followed by the host index number from the list.
+When the client file is successfully executed, a message will appear on the server side showing a connection established to host:# and a menu will be displayed.
 
-After you select a host, you type and send any command that hosts machine.
+From there the user can pick to launch a System Overload, Adware Spam, access Reverse Shell or view the list of connections that are currently connected to the server.
 
-** Note ** The type of command and its syntax is based host's machine OS whether it Windows, kali Linux or etc..
+After launching a system overload or adware spam attack the target host can stop the attack by either closing the client program from the task manager or restarting the device
+which leads to terminating the session between the host machine and the server.
+
+** Note ** When using the Reverse Shell attack the commands you send have to follow the syntax based on the host's machine OS whether it is Windows, Kali Linux etc..
 
 ---
 ## Documentation of the Project
 
-This is the code documentation submitted to Asia Pacific University ( [LINKK TO DOCUMENTATION FILE](https://docs.google.com/document/d/1GKswnhWmfOTsgotIx4L01Tt9l8KtoYs66htm-tbXsIo/edit?usp=sharing))
+This is the code documentation submitted to Asia Pacific University which includes system design, system features, and code explanation ( [LINKK TO DOCUMENTATION FILE](https://docs.google.com/document/d/1GKswnhWmfOTsgotIx4L01Tt9l8KtoYs66htm-tbXsIo/edit?usp=sharing))
 
 ---
 ## License
