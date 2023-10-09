@@ -17,7 +17,7 @@
 
 This educational botnet is designed specifically for researchers and educational institutions. Its main purpose is to provide students with an understanding of botnets including their source code and operational complexities. The ultimate goal is to encourage research that can lead to innovative approaches, in better understanding and effectively dealing with botnets. <br />
 
-##### Every block is explained in the code itself
+** Every block of code is explained in the code itself **
 
 #### Technologies
 
@@ -48,7 +48,7 @@ Run the auto-py -to-exe
 ```
 $ auto-py-to-exe
 ``` 
-Convert the py client to exe <br />
+Convert the py client to one file exe and choose hide console window<br />
 
 Run the "server" program first, then the "client" program on your virtual machine.
 
