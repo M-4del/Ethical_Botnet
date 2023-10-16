@@ -64,7 +64,7 @@ which leads to terminating the session between the host machine and the server.
 ---
 ## Documentation of the Project
 
-This is the code documentation submitted to Asia Pacific University which includes system features, details of release version and code explanation ( [LINKK TO DOCUMENTATION FILE](https://docs.google.com/document/d/1GKswnhWmfOTsgotIx4L01Tt9l8KtoYs66htm-tbXsIo/edit?usp=sharing))
+This is the code documentation submitted to Asia Pacific University which includes system features, defensive solutions against the attacks, details of the release version and the code explanation ( [LINKK TO DOCUMENTATION FILE](https://docs.google.com/document/d/1GKswnhWmfOTsgotIx4L01Tt9l8KtoYs66htm-tbXsIo/edit?usp=sharing))
 
 ---
 ## License
