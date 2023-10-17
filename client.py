@@ -91,7 +91,7 @@ def recv_command():
 
 
 # Server IP address and port
-SERVER_IP = "192.168.100.69"
+SERVER_IP = ""
 SERVER_PORT = 9999
 
 
