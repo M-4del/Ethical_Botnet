@@ -9,8 +9,6 @@ import subprocess
 import tkinter as tk
 
 # Import specific components from modules
-from threading import Thread
-from queue import Queue
 from tkinter import Tk, Entry, Label
 from time import sleep
 
