@@ -2,8 +2,8 @@
 import socket
 
 # Define the host and port for the server
-host = "192.168.100.69"
-port = 9999
+host = ""
+port = 
 
 # Create a socket object for TCP communication
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
